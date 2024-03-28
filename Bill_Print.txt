@@ -1,0 +1,14 @@
+              ========================BILL INFO===========================
+
+BILL NO: 1
+Customer Name: gu
+Medicine Name: aa		Medicine Quantity: 2
+Medicine rate: 60	DATE: 1/1/1
+Total: 120
+              ========================BILL INFO===========================
+
+BILL NO: 1
+Customer Name: 2
+Medicine Name: ss		Medicine Quantity: 2
+Medicine rate: 80	DATE: 2/2/2
+Total: 160
